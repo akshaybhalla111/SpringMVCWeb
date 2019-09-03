@@ -7,7 +7,7 @@
 
 <body>
     <center>
-        <h1>Spring MVC CRUD Application Akshay Bhalla</h1>
+        <h1>Spring MVC CRUD Application Yogesh Patil</h1>
         <hr>
         <table>
             <td>
