@@ -2,12 +2,12 @@
 <html>
 
 <head>
-    <title>Welcome to Application on 29 September</title>
+    <title>Welcome to Application</title>
 </head>
 
 <body>
     <center>
-        <h1>Spring MVC CRUD Application Aurus Tech...</h1>
+        <h1>Spring MVC CRUD Application Happy Navratri</h1>
         <hr>
         <table>
             <td>
